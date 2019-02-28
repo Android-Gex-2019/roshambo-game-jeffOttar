@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment2Roshambo</string>
+    <string name="rock_option_description">Rock Option</string>
+    <string name="scissors_option_description">Scissors Option</string>
+    <string name="paper_option_description">Paper Option</string>
+    <string name="player_selection_description">Player Selection</string>
+    <string name="computer_selection_description">Computer Selection</string>
+    <string name="player_move_text">Player Move</string>
+    <string name="computer_move_text">Computer Move</string>
+    <string name="result_initial_text">Win/Lose/Draw</string>
+    <string name="rock_image_tag">rock</string>
+    <string name="scissors_image_tag">scissors</string>
+    <string name="paper_image_tag">paper</string>
+    <string name="win">Win</string>
+    <string name="lose">Lose</string>
+    <string name="draw">Draw</string>
+</resources>
